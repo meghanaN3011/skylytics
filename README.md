@@ -1,8 +1,8 @@
-# 🌤️ Skylytics – Real-Time Weather App
+# 🌤️Skylytics – Real-Time Weather App
 
 Skylytics is a responsive React.js web application that provides real-time weather updates using the OpenWeather API. Built with Material UI, it offers a clean and modern user interface, allowing users to search for weather details of any city around the world.
 
-## 🚀 Features
+## 🚀Features
 
 - Real-time weather data fetching via OpenWeather API  
 - Search functionality with error handling for invalid cities  
@@ -10,13 +10,13 @@ Skylytics is a responsive React.js web application that provides real-time weath
 - Clean and responsive UI using Material UI components  
 - Efficient rendering with reusable React components  
 
-## 🛠️ Tech Stack
+## 🛠️Tech Stack
 
 - **Frontend:** React.js, JavaScript, HTML, CSS, Material UI  
 - **API:** OpenWeather API  
 - **Tools:** Git, GitHub, Visual Studio Code  
 
-## 📂 Installation
+## 📂Installation
 
 ## Clone the repository
 git clone https://github.com/yourusername/skylytics.git
