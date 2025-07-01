@@ -1,0 +1,12 @@
+.infoBox {
+    text-align: center;
+}
+
+.cardContainer {
+    display: flex;
+    justify-content: center;
+}
+
+h2{
+    color: rgb(70, 161, 192);
+}
