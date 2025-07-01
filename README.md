@@ -32,7 +32,7 @@ npm install
 REACT_APP_WEATHER_API_KEY=your_api_key_here
 
 ## Start the development server
-npm start
+npm run dev
 
 ## Demo
 
