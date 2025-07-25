@@ -18,20 +18,20 @@ Skylytics is a responsive React.js web application that provides real-time weath
 
 ## 📂Installation
 
-## Clone the repository
+# Clone the repository
 git clone https://github.com/yourusername/skylytics.git
 
 cd skylytics
 
-## Install dependencies
+# Install dependencies
 npm install
 
-## Create a .env file in the root directory and add your OpenWeather API key
+# Create a .env file in the root directory and add your OpenWeather API key
 
-## Example:
+# Example:
 REACT_APP_WEATHER_API_KEY=your_api_key_here
 
-## Start the development server
+# Start the development server
 npm run dev
 
 ## Demo
