@@ -11,7 +11,7 @@ export default function InfoBox({ info }) {
   if (!info) return <p style={{ textAlign: "center", marginTop: "20px" }}>Loading weather info...</p>;
 
   const INIT_URL = "https://plus.unsplash.com/premium_photo-1729600377083-bbe558d8b7a6?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D";
-  const HOT_URL = "https://www.bpmcdn.com/f/files/hope/import/2021-04/24809959_web1_Sky-Blue-White-Sunny-Day-Sunny-Summer-Day-Clouds-1117586.jpg;w=960";
+  const HOT_URL = "https://www.howitworksdaily.com/wp-content/uploads/2015/07/heatwave-scaled.jpg";
   const COLD_URL = "https://images.unsplash.com/photo-1612208695882-02f2322b7fee?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y29sZCUyMHdlYXRoZXJ8ZW58MHx8MHx8fDA%3D";
   const RAIN_URL = "https://img.freepik.com/free-photo/weather-effects-composition_23-2149853295.jpg?semt=ais_items_boosted&w=740";
 
